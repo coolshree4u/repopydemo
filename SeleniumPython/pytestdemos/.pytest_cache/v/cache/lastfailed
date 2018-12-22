@@ -1,0 +1,9 @@
+{
+  "test_reporting_demo.py::TestReportingDemo::()::test_methodB": true,
+  "test_run_order_demo.py::test_run_order_methodA": true,
+  "test_run_order_demo.py::test_run_order_methodB": true,
+  "test_run_order_demo.py::test_run_order_methodC": true,
+  "test_run_order_demo.py::test_run_order_methodD": true,
+  "test_run_order_demo.py::test_run_order_methodE": true,
+  "test_run_order_demo.py::test_run_order_methodF": true
+}

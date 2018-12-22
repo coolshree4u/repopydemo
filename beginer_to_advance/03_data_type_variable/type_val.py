@@ -1,0 +1,5 @@
+print(type(2))
+print(type(2.2))
+print(type('test'))
+print(type([1,2,3]))
+print(type(True))

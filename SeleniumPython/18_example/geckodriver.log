@@ -1,0 +1,10 @@
+1530616526035	geckodriver	INFO	geckodriver 0.21.0
+1530616526043	geckodriver	INFO	Listening on 127.0.0.1:44552
+1530616527045	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vANLbmiuQrNq"
+1530616528582	Marionette	INFO	Listening on port 36403
+1530616528678	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://a0.muscache.com/airbnb/static/client/packages/hypernova/spa/spa.bundle-c3ff05a5e07795569490.js, line 1: unreachable code after return statement
+JavaScript warning: https://a0.muscache.com/airbnb/static/client-webcot-Home_async-async-cb44e27c22c393c67fe9.js, line 1: unreachable code after return statement
+1530616560753	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 24499, Gecko_IOThread] WARNING: pipe error (52): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
